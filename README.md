@@ -12,3 +12,4 @@ This repository contains the landing page for the evolution project
 
 ## Documentation
 * version 1.0.0 - 22/09/2022
+* version 1.0.1 - 22/09/2022
